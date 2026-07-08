@@ -1,0 +1,22 @@
+# Зависимости
+node_modules/
+
+.env
+.env.local
+.env.*.local
+
+.claude*
+.vscode*
+
+# Сборка
+dist/
+
+# Логи
+*.log
+npm-debug.log*
+
+# Системное
+.DS_Store
+Thumbs.db
+
+IDEAS.md
